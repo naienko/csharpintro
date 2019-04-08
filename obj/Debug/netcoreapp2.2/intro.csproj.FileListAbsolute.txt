@@ -1,0 +1,11 @@
+C:\Users\naienko\workspace\csharp\intro\bin\Debug\netcoreapp2.2\intro.deps.json
+C:\Users\naienko\workspace\csharp\intro\bin\Debug\netcoreapp2.2\intro.runtimeconfig.json
+C:\Users\naienko\workspace\csharp\intro\bin\Debug\netcoreapp2.2\intro.runtimeconfig.dev.json
+C:\Users\naienko\workspace\csharp\intro\bin\Debug\netcoreapp2.2\intro.dll
+C:\Users\naienko\workspace\csharp\intro\bin\Debug\netcoreapp2.2\intro.pdb
+C:\Users\naienko\workspace\csharp\intro\obj\Debug\netcoreapp2.2\intro.csprojAssemblyReference.cache
+C:\Users\naienko\workspace\csharp\intro\obj\Debug\netcoreapp2.2\intro.csproj.CoreCompileInputs.cache
+C:\Users\naienko\workspace\csharp\intro\obj\Debug\netcoreapp2.2\intro.AssemblyInfoInputs.cache
+C:\Users\naienko\workspace\csharp\intro\obj\Debug\netcoreapp2.2\intro.AssemblyInfo.cs
+C:\Users\naienko\workspace\csharp\intro\obj\Debug\netcoreapp2.2\intro.dll
+C:\Users\naienko\workspace\csharp\intro\obj\Debug\netcoreapp2.2\intro.pdb
